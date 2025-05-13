@@ -37,30 +37,14 @@ Under the umbrella of **Synthetic Aperture Radar (SAR) Stripmap Imaging**, this 
 ## Repository Structure
 
 ```
-SAR_Stripmap_Project/
+SAR-Stripmap-Imaging-and-Environment-Effects/
 │   README.md
-│
-├───DEM/                     # Digital Elevation Model files
-│       ground_dem.mat
-│       ground_dem.tif
-│
-├───scripts/                 # MATLAB code
-│   ├── sar_setup.m          # Define platform, waveform, and system parameters
-│   ├── point_target_imaging.m
-│   ├── terrain_imaging.m
-│   ├── environmental_effects.m
-│   └── parameter_sweep.m
-│
-├───results/                 # Generated images and data
-│   ├── point_clear.png
-│   ├── point_rain.png
-│   ├── terrain_fog.png
-│   ├── sweep_gain.png
-│   └── ...
-│
-└───reports/                 # Final write–up and supplementary materials
-    ├── SAR_Project_Report.pdf
-    └── team_contributions.txt
+│   Project_Report.pdf
+└───RS_Project
+    │   DEM_SAR.m
+    │   SAR_strip_conditions.m
+    │   SAR_strip_map.m
+
 ```
 
 ## Getting Started
