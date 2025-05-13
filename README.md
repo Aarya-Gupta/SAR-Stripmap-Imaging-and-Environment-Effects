@@ -52,7 +52,7 @@ SAR-Stripmap-Imaging-and-Environment-Effects/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-org/SAR_Stripmap_Project.git
+   git clone https://github.com/Aarya-Gupta/SAR_Stripmap_Project.git
    ```
 2. **Prerequisites:**
 
